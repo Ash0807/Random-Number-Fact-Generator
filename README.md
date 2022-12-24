@@ -1,4 +1,3 @@
-Random-Number-Fact-Generator
 1. Enter any number as per your wish between 1 to 300.
 
 2.Then click on Get fact Button.
